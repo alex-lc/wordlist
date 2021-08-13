@@ -1,13 +1,15 @@
 # Wordlist
 
-Build a wordlist to use from any copy paste.
+Build a wordlist to use with Burp Suite or other tools from any copy paste.
 
-## How to Use
+## Usage
 
 * Clone the repo into a directory of your choice.
-* Edit the "text.txt" file in any text editor and paste in your text.
+* Paste your text in the "text.txt" file.
 * Save the "text.txt" file.
-* Run the "build.py" file and use your new wordlist => "wordlist.txt"
+* Run the "build.py" file to generate the new "wordlist.txt" file.
+
+        python build.py
 
 ## Requires
 
